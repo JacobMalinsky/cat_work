@@ -1,0 +1,14 @@
+.middle{
+	text-align: center;
+}
+
+.container{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+}
+
+.behavior{
+	
+
+}
